@@ -137,7 +137,7 @@
             "exports": "$",
             "resources": [
               "Content/ej/web/ej.widgets.core.min.css",
-              "Content/ej/web/default-theme/ej.theme.min.css"
+              "Content/ej/web/flat-azure-dark/ej.theme.min.css"
             ]
           },
           {
